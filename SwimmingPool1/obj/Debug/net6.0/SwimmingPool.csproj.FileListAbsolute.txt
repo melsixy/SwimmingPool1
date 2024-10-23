@@ -1,0 +1,71 @@
+C:\Users\User\source\repos\SwimmingPool\bin\Debug\net6.0\SwimmingPool.exe
+C:\Users\User\source\repos\SwimmingPool\bin\Debug\net6.0\SwimmingPool.deps.json
+C:\Users\User\source\repos\SwimmingPool\bin\Debug\net6.0\SwimmingPool.runtimeconfig.json
+C:\Users\User\source\repos\SwimmingPool\bin\Debug\net6.0\SwimmingPool.dll
+C:\Users\User\source\repos\SwimmingPool\bin\Debug\net6.0\SwimmingPool.pdb
+C:\Users\User\source\repos\SwimmingPool\obj\Debug\net6.0\SwimmingPool.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\SwimmingPool\obj\Debug\net6.0\SwimmingPool.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\SwimmingPool\obj\Debug\net6.0\SwimmingPool.AssemblyInfo.cs
+C:\Users\User\source\repos\SwimmingPool\obj\Debug\net6.0\SwimmingPool.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\SwimmingPool\obj\Debug\net6.0\SwimmingPool.dll
+C:\Users\User\source\repos\SwimmingPool\obj\Debug\net6.0\refint\SwimmingPool.dll
+C:\Users\User\source\repos\SwimmingPool\obj\Debug\net6.0\SwimmingPool.pdb
+C:\Users\User\source\repos\SwimmingPool\obj\Debug\net6.0\SwimmingPool.genruntimeconfig.cache
+C:\Users\User\source\repos\SwimmingPool\obj\Debug\net6.0\ref\SwimmingPool.dll
+C:\Users\Tihomir Petkov\Downloads\SwimmingPool\SwimmingPool\obj\Debug\net6.0\SwimmingPool.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tihomir Petkov\Downloads\SwimmingPool\SwimmingPool\obj\Debug\net6.0\SwimmingPool.AssemblyInfoInputs.cache
+C:\Users\Tihomir Petkov\Downloads\SwimmingPool\SwimmingPool\obj\Debug\net6.0\SwimmingPool.AssemblyInfo.cs
+C:\Users\Tihomir Petkov\Downloads\SwimmingPool\SwimmingPool\obj\Debug\net6.0\SwimmingPool.csproj.CoreCompileInputs.cache
+C:\Users\Tihomir Petkov\Downloads\SwimmingPool\SwimmingPool\obj\Debug\net6.0\SwimmingPool.dll
+C:\Users\Tihomir Petkov\Downloads\SwimmingPool\SwimmingPool\obj\Debug\net6.0\refint\SwimmingPool.dll
+C:\Users\Tihomir Petkov\Downloads\SwimmingPool\SwimmingPool\obj\Debug\net6.0\SwimmingPool.pdb
+C:\Users\Tihomir Petkov\Downloads\SwimmingPool\SwimmingPool\bin\Debug\net6.0\SwimmingPool.exe
+C:\Users\Tihomir Petkov\Downloads\SwimmingPool\SwimmingPool\bin\Debug\net6.0\SwimmingPool.deps.json
+C:\Users\Tihomir Petkov\Downloads\SwimmingPool\SwimmingPool\bin\Debug\net6.0\SwimmingPool.runtimeconfig.json
+C:\Users\Tihomir Petkov\Downloads\SwimmingPool\SwimmingPool\bin\Debug\net6.0\SwimmingPool.dll
+C:\Users\Tihomir Petkov\Downloads\SwimmingPool\SwimmingPool\bin\Debug\net6.0\SwimmingPool.pdb
+C:\Users\Tihomir Petkov\Downloads\SwimmingPool\SwimmingPool\obj\Debug\net6.0\SwimmingPool.genruntimeconfig.cache
+C:\Users\Tihomir Petkov\Downloads\SwimmingPool\SwimmingPool\obj\Debug\net6.0\ref\SwimmingPool.dll
+C:\Users\User\Desktop\SwimmingPool2\bin\Debug\net6.0\SwimmingPool.exe
+C:\Users\User\Desktop\SwimmingPool2\bin\Debug\net6.0\SwimmingPool.deps.json
+C:\Users\User\Desktop\SwimmingPool2\bin\Debug\net6.0\SwimmingPool.runtimeconfig.json
+C:\Users\User\Desktop\SwimmingPool2\bin\Debug\net6.0\SwimmingPool.dll
+C:\Users\User\Desktop\SwimmingPool2\bin\Debug\net6.0\SwimmingPool.pdb
+C:\Users\User\Desktop\SwimmingPool2\obj\Debug\net6.0\SwimmingPool.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\SwimmingPool2\obj\Debug\net6.0\SwimmingPool.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SwimmingPool2\obj\Debug\net6.0\SwimmingPool.AssemblyInfo.cs
+C:\Users\User\Desktop\SwimmingPool2\obj\Debug\net6.0\SwimmingPool.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SwimmingPool2\obj\Debug\net6.0\SwimmingPool.dll
+C:\Users\User\Desktop\SwimmingPool2\obj\Debug\net6.0\refint\SwimmingPool.dll
+C:\Users\User\Desktop\SwimmingPool2\obj\Debug\net6.0\SwimmingPool.pdb
+C:\Users\User\Desktop\SwimmingPool2\obj\Debug\net6.0\SwimmingPool.genruntimeconfig.cache
+C:\Users\User\Desktop\SwimmingPool2\obj\Debug\net6.0\ref\SwimmingPool.dll
+C:\Users\User\Desktop\SwimmingPool1\bin\Debug\net6.0\SwimmingPool.exe
+C:\Users\User\Desktop\SwimmingPool1\bin\Debug\net6.0\SwimmingPool.deps.json
+C:\Users\User\Desktop\SwimmingPool1\bin\Debug\net6.0\SwimmingPool.runtimeconfig.json
+C:\Users\User\Desktop\SwimmingPool1\bin\Debug\net6.0\SwimmingPool.dll
+C:\Users\User\Desktop\SwimmingPool1\bin\Debug\net6.0\SwimmingPool.pdb
+C:\Users\User\Desktop\SwimmingPool1\obj\Debug\net6.0\SwimmingPool.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\SwimmingPool1\obj\Debug\net6.0\SwimmingPool.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SwimmingPool1\obj\Debug\net6.0\SwimmingPool.AssemblyInfo.cs
+C:\Users\User\Desktop\SwimmingPool1\obj\Debug\net6.0\SwimmingPool.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SwimmingPool1\obj\Debug\net6.0\SwimmingPool.dll
+C:\Users\User\Desktop\SwimmingPool1\obj\Debug\net6.0\refint\SwimmingPool.dll
+C:\Users\User\Desktop\SwimmingPool1\obj\Debug\net6.0\SwimmingPool.pdb
+C:\Users\User\Desktop\SwimmingPool1\obj\Debug\net6.0\SwimmingPool.genruntimeconfig.cache
+C:\Users\User\Desktop\SwimmingPool1\obj\Debug\net6.0\ref\SwimmingPool.dll
+C:\Users\1212-13\Source\Repos\SwimmingPool1\bin\Debug\net6.0\SwimmingPool.exe
+C:\Users\1212-13\Source\Repos\SwimmingPool1\bin\Debug\net6.0\SwimmingPool.deps.json
+C:\Users\1212-13\Source\Repos\SwimmingPool1\bin\Debug\net6.0\SwimmingPool.runtimeconfig.json
+C:\Users\1212-13\Source\Repos\SwimmingPool1\bin\Debug\net6.0\SwimmingPool.dll
+C:\Users\1212-13\Source\Repos\SwimmingPool1\bin\Debug\net6.0\SwimmingPool.pdb
+C:\Users\1212-13\Source\Repos\SwimmingPool1\obj\Debug\net6.0\SwimmingPool.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1212-13\Source\Repos\SwimmingPool1\obj\Debug\net6.0\SwimmingPool.AssemblyInfoInputs.cache
+C:\Users\1212-13\Source\Repos\SwimmingPool1\obj\Debug\net6.0\SwimmingPool.AssemblyInfo.cs
+C:\Users\1212-13\Source\Repos\SwimmingPool1\obj\Debug\net6.0\SwimmingPool.csproj.CoreCompileInputs.cache
+C:\Users\1212-13\Source\Repos\SwimmingPool1\obj\Debug\net6.0\SwimmingPool.sourcelink.json
+C:\Users\1212-13\Source\Repos\SwimmingPool1\obj\Debug\net6.0\SwimmingPool.dll
+C:\Users\1212-13\Source\Repos\SwimmingPool1\obj\Debug\net6.0\refint\SwimmingPool.dll
+C:\Users\1212-13\Source\Repos\SwimmingPool1\obj\Debug\net6.0\SwimmingPool.pdb
+C:\Users\1212-13\Source\Repos\SwimmingPool1\obj\Debug\net6.0\SwimmingPool.genruntimeconfig.cache
+C:\Users\1212-13\Source\Repos\SwimmingPool1\obj\Debug\net6.0\ref\SwimmingPool.dll
